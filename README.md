@@ -18,3 +18,8 @@ You can start editing the page by modifying `app/page.js`. The page auto-updates
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
+## About the project
+
+Full-stack application build with CRUD features using NextJS@13.4. Here you can share, search AI prompts entered by people from all around the world.
+
+## Some Screen-shots:
